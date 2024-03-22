@@ -1,0 +1,62 @@
+C:\Users\popes\source\repos\Aplicatie\obj\Debug\net8.0-windows\LoginForm.Login.resources
+C:\Users\popes\source\repos\Aplicatie\obj\Debug\net8.0-windows\LoginForm.Form2.resources
+C:\Users\popes\source\repos\Aplicatie\obj\Debug\net8.0-windows\Aplicatie.Properties.Resources.resources
+C:\Users\popes\source\repos\Aplicatie\obj\Debug\net8.0-windows\Aplicatie.csproj.GenerateResource.cache
+C:\Users\popes\source\repos\Aplicatie\obj\Debug\net8.0-windows\Aplicatie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\popes\source\repos\Aplicatie\obj\Debug\net8.0-windows\Aplicatie.AssemblyInfoInputs.cache
+C:\Users\popes\source\repos\Aplicatie\obj\Debug\net8.0-windows\Aplicatie.AssemblyInfo.cs
+C:\Users\popes\source\repos\Aplicatie\obj\Debug\net8.0-windows\Aplicatie.csproj.CoreCompileInputs.cache
+C:\Users\aidaa\Desktop\New folder (2)\obj\Debug\net8.0-windows\LoginForm.Login.resources
+C:\Users\aidaa\Desktop\New folder (2)\obj\Debug\net8.0-windows\LoginForm.Form2.resources
+C:\Users\aidaa\Desktop\New folder (2)\obj\Debug\net8.0-windows\Aplicatie.Properties.Resources.resources
+C:\Users\aidaa\Desktop\New folder (2)\obj\Debug\net8.0-windows\Aplicatie.csproj.GenerateResource.cache
+C:\Users\aidaa\Desktop\New folder (2)\obj\Debug\net8.0-windows\Aplicatie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aidaa\Desktop\New folder (2)\obj\Debug\net8.0-windows\Aplicatie.AssemblyInfoInputs.cache
+C:\Users\aidaa\Desktop\New folder (2)\obj\Debug\net8.0-windows\Aplicatie.AssemblyInfo.cs
+C:\Users\aidaa\Desktop\New folder (2)\obj\Debug\net8.0-windows\Aplicatie.csproj.CoreCompileInputs.cache
+C:\Users\aidaa\Desktop\New folder (2)\obj\Debug\net8.0-windows\Aplicatie.csproj.AssemblyReference.cache
+C:\Users\aidaa\Desktop\New folder (2)\bin\Debug\net8.0-windows\Aplicatie.exe
+C:\Users\aidaa\Desktop\New folder (2)\bin\Debug\net8.0-windows\Aplicatie.deps.json
+C:\Users\aidaa\Desktop\New folder (2)\bin\Debug\net8.0-windows\Aplicatie.runtimeconfig.json
+C:\Users\aidaa\Desktop\New folder (2)\bin\Debug\net8.0-windows\Aplicatie.dll
+C:\Users\aidaa\Desktop\New folder (2)\bin\Debug\net8.0-windows\Aplicatie.pdb
+C:\Users\aidaa\Desktop\New folder (2)\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\aidaa\Desktop\New folder (2)\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\aidaa\Desktop\New folder (2)\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\aidaa\Desktop\New folder (2)\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\aidaa\Desktop\New folder (2)\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\aidaa\Desktop\New folder (2)\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\aidaa\Desktop\New folder (2)\obj\Debug\net8.0-windows\Aplicatie.csproj.CopyComplete
+C:\Users\aidaa\Desktop\New folder (2)\obj\Debug\net8.0-windows\Aplicatie.dll
+C:\Users\aidaa\Desktop\New folder (2)\obj\Debug\net8.0-windows\refint\Aplicatie.dll
+C:\Users\aidaa\Desktop\New folder (2)\obj\Debug\net8.0-windows\Aplicatie.pdb
+C:\Users\aidaa\Desktop\New folder (2)\obj\Debug\net8.0-windows\Aplicatie.genruntimeconfig.cache
+C:\Users\aidaa\Desktop\New folder (2)\obj\Debug\net8.0-windows\ref\Aplicatie.dll
+C:\Users\aidaa\Desktop\Aplicatie\obj\Debug\net8.0-windows\Aplicatie.csproj.AssemblyReference.cache
+C:\Users\aidaa\Desktop\Aplicatie\obj\Debug\net8.0-windows\LoginForm.Login.resources
+C:\Users\aidaa\Desktop\Aplicatie\obj\Debug\net8.0-windows\LoginForm.Form2.resources
+C:\Users\aidaa\Desktop\Aplicatie\obj\Debug\net8.0-windows\Aplicatie.Properties.Resources.resources
+C:\Users\aidaa\Desktop\Aplicatie\obj\Debug\net8.0-windows\Aplicatie.csproj.GenerateResource.cache
+C:\Users\aidaa\Desktop\Aplicatie\obj\Debug\net8.0-windows\Aplicatie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aidaa\Desktop\Aplicatie\obj\Debug\net8.0-windows\Aplicatie.AssemblyInfoInputs.cache
+C:\Users\aidaa\Desktop\Aplicatie\obj\Debug\net8.0-windows\Aplicatie.AssemblyInfo.cs
+C:\Users\aidaa\Desktop\Aplicatie\obj\Debug\net8.0-windows\Aplicatie.csproj.CoreCompileInputs.cache
+C:\Users\aidaa\Desktop\Aplicatie\obj\Debug\net8.0-windows\Aplicatie.dll
+C:\Users\aidaa\Desktop\Aplicatie\obj\Debug\net8.0-windows\refint\Aplicatie.dll
+C:\Users\aidaa\Desktop\Aplicatie\obj\Debug\net8.0-windows\Aplicatie.pdb
+C:\Users\aidaa\Desktop\Aplicatie\bin\Debug\net8.0-windows\Aplicatie.exe
+C:\Users\aidaa\Desktop\Aplicatie\bin\Debug\net8.0-windows\Aplicatie.deps.json
+C:\Users\aidaa\Desktop\Aplicatie\bin\Debug\net8.0-windows\Aplicatie.runtimeconfig.json
+C:\Users\aidaa\Desktop\Aplicatie\bin\Debug\net8.0-windows\Aplicatie.dll
+C:\Users\aidaa\Desktop\Aplicatie\bin\Debug\net8.0-windows\Aplicatie.pdb
+C:\Users\aidaa\Desktop\Aplicatie\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\aidaa\Desktop\Aplicatie\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\aidaa\Desktop\Aplicatie\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\aidaa\Desktop\Aplicatie\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\aidaa\Desktop\Aplicatie\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\aidaa\Desktop\Aplicatie\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\aidaa\Desktop\Aplicatie\obj\Debug\net8.0-windows\Aplicatie.csproj.CopyComplete
+C:\Users\aidaa\Desktop\Aplicatie\obj\Debug\net8.0-windows\Aplicatie.genruntimeconfig.cache
+C:\Users\aidaa\Desktop\Aplicatie\obj\Debug\net8.0-windows\ref\Aplicatie.dll
+C:\Users\aidaa\Desktop\Aplicatie\obj\Debug\net8.0-windows\Aplicatie.FormFilme.resources
+C:\Users\aidaa\Desktop\Aplicatie\obj\Debug\net8.0-windows\Aplicatie.Utilizatori.resources
